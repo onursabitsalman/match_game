@@ -1,0 +1,18 @@
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\bin\Debug\ButtonGameNew.exe.config
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\bin\Debug\ButtonGameNew.exe
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\bin\Debug\ButtonGameNew.pdb
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.csprojResolveAssemblyReference.cache
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.Form1.resources
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.Properties.Resources.resources
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.csproj.GenerateResource.Cache
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.exe
+c:\users\alperen\documents\visual studio 2015\Projects\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.pdb
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\bin\Debug\ButtonGameNew.exe.config
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.exe
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.pdb
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\bin\Debug\ButtonGameNew.exe
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\bin\Debug\ButtonGameNew.pdb
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.csprojResolveAssemblyReference.cache
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.Form1.resources
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.Properties.Resources.resources
+C:\Users\DOLBY\Desktop\Setup\Visiual Studio\ButtonGameNew\ButtonGameNew\obj\Debug\ButtonGameNew.csproj.GenerateResource.Cache
